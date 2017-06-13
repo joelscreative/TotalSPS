@@ -1,0 +1,35 @@
+/*
+ Theme Name:   Bellaina Child Theme
+ Theme URI:    http://ld-wp.template-help.com/wordpress_58666/
+ Author:       Template Monster
+ Author URI:   http://www.templatemonster.com/
+ Description:  Real Estate theme.
+ Version:      1.0.0
+ Template:     bellaina
+ Version:      1.0.0
+ Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, featured-images, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, footer-widgets, full-width-template
+ Text Domain:  bellaina-child
+*/
+
+ul#footer-menu-items li a {color:#FFF; font-size:0.75em; }
+.full-width-header-area .widget-tm-re-search .widget-tm-re-search__form-wrap {padding:30px;}
+
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"] {height:30px;}
+
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"], input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"], input[type="datetime-local"], input[type="color"], select, textarea {padding:5px 10px;}
+
+select {padding: 5px 10px;}
+
+.footer-area-wrap .footer-area-container .footer-area, .footer-area-wrap .footer-area-container .centered-footer-area {padding:1em 0;}
+
+.search-form__field[type="search"] {height:40px;}
+.site-header .search-form__submit {height:40px;}
+.search-form__submit i.material-icons {height:40px; line-height:40px;}
+
+.site-header.centered .site-description {font-size:small; top:10px;}
+@media (min-width: 992px)
+style.css?ver=4.7.5:7546
+.site-header.centered .top-panel__message .info-block {font-size:small;}
+
+.swiper-slide {text-align:center;}
+
